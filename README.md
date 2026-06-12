@@ -1,4 +1,4 @@
-# sacc-licitacoes
+# licitaai-data-collector
 
 Crawler assincrono para coleta de dados de licitacoes publicas via API do PNCP (Portal Nacional de Contratacoes Publicas).
 
