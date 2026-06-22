@@ -2,7 +2,7 @@
 
 Crawler assincrono para coleta de dados de licitacoes publicas via API do PNCP (Portal Nacional de Contratacoes Publicas).
 
-Este repositorio foi construido como parte da solucao **LicitaAI**, segundo lugar do hackaton SACC 2026, cuja tematica era inteligencia artificial aplicada a transparencia e analise de dados publicos.
+Este repositorio foi construido como parte da solução **LicitaAI**, segundo lugar do hackaton SACC 2026, cuja tematica era inteligencia artificial aplicada a transparencia e analise de dados publicos.
 
 O crawler foi a camada de coleta: busca, pagina e persiste os dados brutos do PNCP em um banco SQLite local para que a interface de consulta em linguagem natural possa operar sobre eles.
 
